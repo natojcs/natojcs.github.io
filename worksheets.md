@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Worksheets
-permalink: /worksheet/
+permalink: /worksheets/
 ---
 
 # Downloadable Resources
