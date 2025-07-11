@@ -25,8 +25,12 @@ navbar-links:
     - Learn markdown: "www.google.pt"
     - Tutoring: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Worksheets:
-    - url: /worksheets/
+  Lessons:
+    - Lesson: /worksheets/
+     - IGCSE: /worksheets/
+    - Worksheets: /worksheets/
+  Lessons2:
+    - A Levels:
   Author's home: "https://deanattali.com"
 
 ################
@@ -57,9 +61,9 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
   github: natojcs
-  twitter: daattali
+# twitter: daattali
   patreon: TBD
-  youtube: "@daattali"
+# youtube: "@daattali"
   whatsapp: Request through email
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
