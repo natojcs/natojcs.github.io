@@ -27,7 +27,6 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   Lessons:
     - Lesson: /worksheets/
-     - IGCSE: /worksheets/
     - Worksheets: /worksheets/
   Lessons2:
     - A Levels:
