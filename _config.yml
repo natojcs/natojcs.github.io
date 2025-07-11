@@ -25,6 +25,8 @@ navbar-links:
     - Learn markdown: "www.google.pt"
     - Tutoring: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  Worksheets:
+    url: /worksheets/
   Author's home: "https://deanattali.com"
 
 ################
