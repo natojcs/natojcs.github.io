@@ -22,6 +22,7 @@ author: Renato Soares
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Learn markdown: "www.google.pt"
     - Tutoring: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
