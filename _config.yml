@@ -26,7 +26,7 @@ navbar-links:
     - Tutoring: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Worksheets:
-    url: /worksheets/
+    - url: /worksheets/
   Author's home: "https://deanattali.com"
 
 ################
