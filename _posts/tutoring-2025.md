@@ -1,0 +1,26 @@
+---
+layout: page
+title: Tutoring Openings 2025–2026
+permalink: /tutoring/
+---
+
+# 📚 Tutoring Openings for 2025–2026
+
+I’m excited to announce that I will be offering **limited tutoring slots** for the **2025–2026 academic year**!
+
+### 🎯 Subjects Offered:
+- Mathematics (GCSE, A-Level, IB, etc.)
+- Physics
+- Exam prep and revision strategies
+
+### 🕒 Availability:
+- **Weekdays:** 4 PM – 9 PM
+- **Weekends:** 10 AM – 2 PM
+- Sessions available online
+
+### 💬 How to Apply:
+If you're interested in booking a slot or learning more, please reach out via [renato.j.c.soares@gmail.com].
+
+---
+
+📌 *Spaces are limited, so early registration is recommended!*
